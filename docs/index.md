@@ -4,4 +4,4 @@ I am setting this quickly to provide a place to share recipies, tips and tricks.
 
 ## Recipe
 
-[Salée de la Vallée](/recipies/salee.md)
+[Salée de la Vallée](./recipes/salee.md)
