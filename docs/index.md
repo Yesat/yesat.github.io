@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/Yesat/yesat.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am setting this quickly to provide a place to share recipies, tips and tricks. It will evolve or not depending on life the universe and the rest.
 
 ### Markdown
 
