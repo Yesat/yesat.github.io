@@ -47,4 +47,4 @@ This "Salée" (which is a termed used for both sweet and savoury desserts in Rom
 
 Serve warm or cold.
 
-A bit more of it's story can be found in French/German/Italian over [here](https://www.patrimoineculinaire.ch/Produit/Salee-du-Val-dIlliez/89). This recipe is adapted from this [[page](https://www.valais.ch/en/information/landingpage/recipes/salee-de-la-vallee), which has a lot of other regional recipies.
+A bit more of it's story can be found in French/German/Italian over [here](https://www.patrimoineculinaire.ch/Produit/Salee-du-Val-dIlliez/89). This recipe is adapted from this [page](https://www.valais.ch/en/information/landingpage/recipes/salee-de-la-vallee), which has a lot of other regional recipies.
