@@ -9,10 +9,10 @@ This "Salée" (which is a termed used for both sweet and savoury desserts in Rom
 	- 300 g flour
     - 140 g butter, softened
     - 30 g sugar
-    - 5g tsp salt (1 tsp)
+    - 5g (1 tsp) salt 
     - 1 citron zest
     - 1 egg
-    - 100g warm milk (1dl)
+    - 100g (1dl) warm milk 
     - 10 g baker’s yeast
 - Shortbread mix:
     - 250 g flour
@@ -23,7 +23,7 @@ This "Salée" (which is a termed used for both sweet and savoury desserts in Rom
     - 150 g slices of butter
 - Optional: 
     - 1 apple, thinely sliced (Granny Smith or similar works nicely) *it is a variation, mostly done in one of the village of the valley, I usually don't bother*.
-    - 1cl of dry white wine (Because Valais, it would be a Chasselas, called *Fendant* here) *I do recommend this one though*
+    - 100g (1dl) of dry white wine (Because Valais, it would be a Chasselas, called *Fendant* here) *I do recommend this one though*
 
 ### Recipe
 - Sweet pastry dough:
