@@ -9,10 +9,10 @@ This "Salée" (which is a termed used for both sweet and savoury desserts in Rom
 	- 300 g flour
     - 140 g butter, softened
     - 30 g sugar
-    - 1 tsp salt (5 g)
+    - 5g tsp salt (1 tsp)
     - 1 citron zest
     - 1 egg
-    - 1 dl warm milk
+    - 100g warm milk (1dl)
     - 10 g baker’s yeast
 - Shortbread mix:
     - 250 g flour
