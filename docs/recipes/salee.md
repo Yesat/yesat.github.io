@@ -40,7 +40,7 @@ This "Salée" (which is a termed used for both sweet and savoury desserts in Rom
     1. Roll out the dough and place in a lightly oiled flan tin (or use parchment paper)
     1. Poke the dough with your finger or prick it with a fork.
         - if you want to cover the dough with the apple slice now.
-    1. Spread the shortbread dough on the sweet pastry dough, press down the edges and smooth the surface.
+    1. Spread the shortbread dough on the sweet pastry dough, press down the edges and smooth the surface. ![Shortbread spread, now to layer the butter](../images/before_oven.JPG)
     1. Place the slices of butter on top and bake in the oven for 45 minutes at 180° C.
         - If using the wine, after 30 minutes of baking, sprinkle the surface with it and put back in the oven. *If there's some left over wine, cheers*
     1. Remove, allow to cool, remove from the baking tin and place on a rack.
