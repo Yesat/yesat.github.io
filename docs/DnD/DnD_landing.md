@@ -15,7 +15,7 @@ It will be a single party campaign, not a West March or a shared universe.
     - Naval
     I shall research ship combat for that; a campaign centered around a ship and exploration from it.
     - "Modern"  
-    Eberron/Final Fantasy style, technology and magic have been weaved and provided relatively clear advancements in infrastructure/comfort. But the wilderness.
+    Eberron/Final Fantasy style, technology and magic have been weaved and provided relatively clear advancements in infrastructure/comfort. But the wilderness can still be present and important.
     - And if you have any idea, please share when we'll do discussion
 - Themes  
 Classic adventures, heroes quests, more political stuff,... I'll say the less standard adventurers we stray the less simple it will be for me, but I'm open for it.
